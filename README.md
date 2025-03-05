@@ -1,5 +1,8 @@
-# Hexagon Script for Blender
+<h1 align="center">Hexagon Script for Blender</h1>
 
+## Demo Video
+
+Click on the image below to watch the demo video:
 <p align="center">
   <a href="https://youtu.be/kbFGsYS4JtE">
     <img src="https://img.youtube.com/vi/kbFGsYS4JtE/hqdefault.jpg" alt="Watch the video">
