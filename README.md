@@ -7,7 +7,7 @@
 </p>
 
 ## Overview
-This script, designed for use with Blender, animates a "Raven Flies Out of Hexagonal Cage" scenario, authored by Jorge Montes. It programmatically generates a series of hexagonal rings that increase in size, rotate, and then are converted into curved meshes to form a dynamic animation sequence.
+This script, designed for use with Blender, creates a Hexagonal object for the animation Hexagonal Cage authored by Jorge Montes. It programmatically generates a series of hexagonal rings that increase in size, rotate, and then are converted into curved meshes to form a dynamic animation sequence.
 ## Python Script
 
 ## Python Script
