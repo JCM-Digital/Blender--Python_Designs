@@ -8,6 +8,12 @@
 
 ## Overview
 This script, designed for use with Blender, animates a "Raven Flies Out of Hexagonal Cage" scenario, authored by Jorge Montes. It programmatically generates a series of hexagonal rings that increase in size, rotate, and then are converted into curved meshes to form a dynamic animation sequence.
+## Python Script
+
+## Python Script
+
+The Python script used in this project is available in the `scripts` folder. Access it here: [Python Scripts Folder][(https://github.com/johndoe/animation-project/tree/main/scripts)
+](https://github.com/JCM-Digital/Blender--Python_Designs/tree/main/Hexagon%20Python%20Script)
 
 ![Hexagonal Cage III](https://github.com/user-attachments/assets/3e9fab78-44af-46cf-964a-3a5226412794)
 
