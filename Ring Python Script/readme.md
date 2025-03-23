@@ -1,6 +1,5 @@
 <h1 align="center">✨ Galactic Rings: Procedural Spiral Animation</h1>
 
-![RING0271](https://github.com/user-attachments/assets/920558fc-b23a-47e9-91d6-b44b76e3c9fe)
 
 <p align="center">
   <a href="https://youtu.be/X6bI6yZh5U8" target="_blank">
