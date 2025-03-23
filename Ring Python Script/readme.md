@@ -1,14 +1,17 @@
-<p align="center">
+<h1 align="center">✨ Galactic Rings: Procedural Spiral Animation</h1>
 
-![RING0271](https://github.com/user-attachments/assets/2ace4d0c-94e7-41b4-8467-5b96cd148888)
- 
-  <a href="https://youtu.be/X6bI6yZh5U8?si=u0Cn1_o42cApDB4Y" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="Watch the animation on YouTube" width="480">
+![RING0271](https://github.com/user-attachments/assets/920558fc-b23a-47e9-91d6-b44b76e3c9fe)
+
+<p align="center">
+  <a href="https://youtu.be/X6bI6yZh5U8" target="_blank">
+    <img src="https://img.youtube.com/vi/X6bI6yZh5U8/hqdefault.jpg" alt="Watch the video" width="480">
   </a>
 </p>
 
-
 <h2 align="center">🔁 Spiral Ring Generator for Galactic Rings Animation</h2>
+
+![RING0739](https://github.com/user-attachments/assets/d9852cb4-f177-4908-852a-a7fe3d94b15c)
+
 
 <p align="center">
   This script was used to create the <strong>center ring structure</strong> for the animated short <em>Galactic Rings</em>.<br>
@@ -16,16 +19,14 @@
   producing a seamless, hypnotic animation loop with smooth Y and Z axis motion.
 </p>
 
+![RING0409](https://github.com/user-attachments/assets/247fceb4-717b-4bc8-ae95-29e8edbd05c4)
+
 <p align="center">
   Features include:
 </p>
 
+![RING0094](https://github.com/user-attachments/assets/41bf4415-bd4d-4037-bbd7-814e160f7e4a)
+
 <ul align="center">
   <li>Parametric control of ring count, spacing, and rotation offsets</li>
-  <li>Automatic keyframe insertion with linear interpolation for perfect loops</li>
-  <li>Basic camera and lighting setup to visualize the effect instantly</li>
-</ul>
-
-<p align="center">
-  Designed for rapid iteration and integration into larger procedural motion projects.
-</p>
+  <li>Automatic keyframe insertion with linear interpolation for perfect loops</li
